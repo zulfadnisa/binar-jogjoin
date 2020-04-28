@@ -2,8 +2,7 @@
 
 Final project binar batch 10
 
-Project in Binar Academy batch 10 about dropship UMKM product to online marketplace
+Front-end web
 
-front-end web
-
+About dropship UMKM product to online marketplace (jogjoin)
 JOGJOIN http://jogjoin-dev.herokuapp.com/

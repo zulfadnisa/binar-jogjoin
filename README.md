@@ -2,7 +2,12 @@
 
 Final project binar batch 10
 
-Front-end web
+My team : Jogjoin
+About dropship UMKM product to online marketplace (jogjoin
 
-About dropship UMKM product to online marketplace (jogjoin)
-JOGJOIN http://jogjoin-dev.herokuapp.com/
+In jogjoin, i am front-end.
+
+http://jogjoin-dev.herokuapp.com/
+
+
+
